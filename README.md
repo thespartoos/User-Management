@@ -1,7 +1,7 @@
 **USER-MANAGEMENT**
 ---
 
-![](/images/User_Management.png)
+<img src="/images/User_Management.png" width="350" height="300">
 
 Herramienta en Bash eficiente para gestionar los usuarios en un sistema GNU/Linux.
 Esta utilidad nos permitirá crear, modificar y eliminar los usuarios del sistema, en la que podremos definir:
